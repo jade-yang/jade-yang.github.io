@@ -55,3 +55,4 @@ RUN     set -xe \
     &&  apk update \
     &&  apk add --no-cache git \
     &&  npm -g config set user root
+
